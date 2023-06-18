@@ -1,0 +1,20 @@
+.btn-search{
+  color:aliceblue;
+  background:#d86202;
+  border-radius: 10px;
+  border: 1px #d86202 solid;
+
+}
+.btn-search:hover{
+  cursor: pointer;
+  opacity:.9;
+  border: 1px #f6b178 solid;
+}
+.brand-name{
+  color: #d86202;
+}
+.me-2:focus{
+  border-color: #f6b178;
+  box-shadow: 0 0 0 0.25rem rgba(255, 152, 55, 0.25);
+
+}
