@@ -7,7 +7,7 @@ const Item = ({item}) => {
   return (
       <Row>
         <Card className='card'>
-            <Card.Img className='img-item' variant="top" src={item.imgURL} />
+            <Card.Img className='img-item' variant="top" src="/images/b1.jpeg"/>
             <Card.Body>
               <Card.Title>{item.title}</Card.Title>
               <Card.Text py-2>

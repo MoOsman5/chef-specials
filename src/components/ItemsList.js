@@ -1,7 +1,6 @@
 import React from 'react';
 import { Col, Row } from 'react-bootstrap';
 import Item from './Item';
-
 const ItemsList = ({itemData}) => {
   return (
       <Row >
@@ -10,7 +9,6 @@ const ItemsList = ({itemData}) => {
             return (
               <Col key={item.id} sm='4'  className='mb-3 g-5' >
                 <Item item={item}/>
-            
               </Col>
             )
 
