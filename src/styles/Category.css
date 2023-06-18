@@ -1,0 +1,8 @@
+.btn{
+  border: 1px solid #f6b178;
+
+}
+.btn:hover{
+  color: aliceblue;
+  background-color: #d86202;
+}
