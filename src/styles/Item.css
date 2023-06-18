@@ -1,0 +1,27 @@
+.img-item{
+  height: 400px;
+  width: 106%;
+  margin: 0 -11.5px;
+}
+.item-description{
+  color: grey;
+  font-size:.8em!important;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.item-price{
+  color:  #d86202;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+
+}
+.card{
+  box-shadow: 2px 2px 0 0.25rem rgba(255, 152, 55, 0.25);
+
+}
+
+.grid-container{
+  grid-gap:50px
+}
